@@ -100,8 +100,3 @@ The Consumer Spending Dashboard highlights that the highest spending customers i
 
 ### **Coupon Engagement**  
 Coupon usage remains steady throughout the year, though the number of coupon clicks peaks in August. This suggests that current coupon offers may not be compelling enough to significantly impact customer purchase behavior.
-
----
-
-## **Interactive Dashboards**  
-Explore the full interactive dashboards here: [Tableau Public](#)
